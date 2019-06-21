@@ -5,6 +5,9 @@
 * **[Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))**
 <!-- default file list end -->
 # ASPxGridView - How to edit data in a DataTable at runtime when data is stored in Session
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t191009)**
+<!-- run online end -->
 
 
 <p>This example shows how to insert, edit and delete data in a data table by using ASPxGridView. The data table and the grid are created at runtime.<br /><br /></p>
