@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # ASPxGridView - How to edit data in a DataTable at runtime when data is stored in Session
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t191009)**
+**[[Run Online]](https://codecentral.devexpress.com/t191009/)**
 <!-- run online end -->
 
 
