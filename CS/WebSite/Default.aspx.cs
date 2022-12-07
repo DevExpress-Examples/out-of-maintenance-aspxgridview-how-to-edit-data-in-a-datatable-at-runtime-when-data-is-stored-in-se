@@ -1,6 +1,6 @@
 using System;
 using System.Data;
-using DevExpress.Web.ASPxGridView;
+using DevExpress.Web;
 using DevExpress.Web.Data;
 
 

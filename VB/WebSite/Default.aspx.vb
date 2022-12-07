@@ -1,6 +1,6 @@
 ﻿Imports System
 Imports System.Data
-Imports DevExpress.Web.ASPxGridView
+Imports DevExpress.Web
 Imports DevExpress.Web.Data
 
 
